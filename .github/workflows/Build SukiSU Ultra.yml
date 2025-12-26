@@ -326,6 +326,7 @@ jobs:
           fi
           git clone https://github.com/Xiaomichael/kernel_patches.git
           git clone https://github.com/ShirkNeko/SukiSU_patch.git
+          git clone https://github.com/Numbersf/Action-Build.git
           
           cd kernel_platform
           echo "📝 复制补丁文件..."
